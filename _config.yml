@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:              tesserae
 tagline:             'more than the sum of its parts'
-description:         ''
+description:         'scrapbook, commonplacebook, idea book'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 gems: [jekyll-paginate]
@@ -16,6 +16,7 @@ paginate_path: "page:num"
 
 # About/contact
 author:
+    gravatar: 1ab31f46b428111b44df69a28cadd385 # md5 hash of your email address
   name:              Ryan  Shelton
   twitter:               https://twitter.com/mountzionryan
  # email:                 email:     http://www.google.com/recaptcha/mailhide/d?k=01p6IF15D1YX3AHhrjkPVExA==&c=hmML5jNmWSS71wzkTm83UjH7fQX3qeFVd96bAhRGcJc=
