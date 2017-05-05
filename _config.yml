@@ -7,7 +7,8 @@ permalink:           pretty
 # Setup
 title:               tesserae
 tagline:             'more than the sum of my parts'
-description:         'a place for my things'
+description:         '(<img src="/public/logo.jpg"> <br /> a place for my things <br />
+Noetic designer/writer/problem-solver '
 url:                 https://mountzionryan.github.io/
 baseurl:             ''
 paginate:            5
