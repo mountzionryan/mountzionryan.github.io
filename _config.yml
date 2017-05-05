@@ -1,14 +1,9 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-
-
 # Setup
 title:              tesserae
 tagline:             'more than the sum of its parts'
 description:         'scrapbook, commonplacebook, idea book'
-url:                 http://lanyon.getpoole.com
+url: https://mountzionryan.github.io/
+logo: '/public/logo.png'
 baseurl:             ''
 gems: [jekyll-paginate]
 paginate: 5
