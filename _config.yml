@@ -1,24 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+
 # Setup
-# Site Info
- title:              tesserae
- tagline:             'more than the sum of its parts'
-
-
-description:         ''scrapbook, commonplacebook, idea book'
+title:               tesserae
+tagline:             'more than the sum of my parts'
+description:         'a place for my things'
 url:                 https://mountzionryan.github.io/
 baseurl:             ''
-gems: 
- -jekyll-paginate
-paginate: 5
-paginate_path: "page:num"
+paginate:            5
 
 # About/contact
 author:
-  name:              Ryan  Shelton
-  twitter:               https://twitter.com/mountzionryan
- email:       http://www.google.com/recaptcha/mailhide/d?k=01p6IF15D1YX3AHhrjkPVExA==&c=hmML5jNmWSS71wzkTm83UjH7fQX3qeFVd96bAhRGcJc=
- description: 'A noetic designer, writer, problem-solver edging toward wisdom.'
-   gravatar: 1ab31f46b428111b44df69a28cadd385 # md5 hash of your email address
-   
+  name:              Mountzionryan
+  url:               https://twitter.com/mountzionryan
+  email:             http://www.google.com/recaptcha/mailhide/d?k=01p6IF15D1YX3AHhrjkPVExA==&c=hmML5jNmWSS71wzkTm83UjH7fQX3qeFVd96bAhRGcJc=
+
 # Custom vars
 version:             1.0.0
