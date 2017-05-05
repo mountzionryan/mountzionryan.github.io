@@ -4,10 +4,11 @@
  tagline:             'more than the sum of its parts'
 
 
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         ''scrapbook, commonplacebook, idea book'
 url:                 https://mountzionryan.github.io/
 baseurl:             ''
-gems: [jekyll-paginate]
+gems: 
+ -jekyll-paginate
 paginate: 5
 paginate_path: "page:num"
 
