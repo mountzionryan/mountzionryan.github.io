@@ -7,18 +7,16 @@ permalink:           pretty
 # Setup
 title:               tesserae
 tagline:             'more than the sum of my parts'
-description:         <style>
-li {display: inline;
-	}
+description:         
+ style="display: inline;"
 
-</style>
 <img src="/public/logo.png"> <br /> Ryan Shelton<br />
 Noetic <ul>
-<li>designer</li>
-<li>writer</li>
-<li>father</li> <br />
-<li>husband</li>
-<li>problem-solver</li>
+<li  style="display: inline;">designer</li>
+<li  style="display: inline;">writer</li>
+<li  style="display: inline;">father</li> <br />
+<li  style="display: inline;">husband</li>
+<li style="display: inline;">problem-solver</li>
 <br />
 moving toward wisdom.
 </ul>
