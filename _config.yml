@@ -16,7 +16,7 @@ paginate:            5
 author:
   name:              Ryan  Shelton
   twitter:               https://twitter.com/mountzionryan
-  email:                 email:     http://www.google.com/recaptcha/mailhide/d?k=01p6IF15D1YX3AHhrjkPVExA==&c=hmML5jNmWSS71wzkTm83UjH7fQX3qeFVd96bAhRGcJc=
+ # email:                 email:     http://www.google.com/recaptcha/mailhide/d?k=01p6IF15D1YX3AHhrjkPVExA==&c=hmML5jNmWSS71wzkTm83UjH7fQX3qeFVd96bAhRGcJc=
 
 # Custom vars
 version:             1.0.0
