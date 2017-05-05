@@ -7,8 +7,8 @@ tags: [visual, design, written, soccer]
 
 ---
 
-# The IFAB Laws of the Game 2016/2017
-The (IFAB)[http://www.theifab.com] (henceforth, _The Board_ )is the International Football Association Board. FIFA is a seperate body, with representation on the IFAB.
+### The IFAB Laws of the Game 2016/2017
+The [IFAB](http://www.theifab.com) (henceforth, _The Board_ )is the International Football Association Board. FIFA is a seperate body, with representation on the IFAB.
 
 _The Board's_ function is to regulate the rules of soccer. 
 
@@ -52,6 +52,8 @@ The graphics are likewise simple and clear.
 ![Field Dimensions](http://static-3eb8.kxcdn.com/media/052016/197/Dimensions_main.png "Field Dimensions")
 
 ![Direct Kick](http://static-3eb8.kxcdn.com/media/042016/101/DIRECT-FREE-KICK_main.png "Direct Kick")
+The Laws of the Game are a wonderful reflection of the game itself: 
+__Beautiful__
 
 **********************************
 <a name="myfootnote1">1</a> For about twenty years my editorial, even my design philosphy can be summed up with *Rule 17*.
