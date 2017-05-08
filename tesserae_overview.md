@@ -32,5 +32,15 @@ Sounds
 History
 Orthodox
 Whims
+Bunraku
+Gagaku
+Bugaku
+Nogaku
+Jo-ha-kyu
+Yugen
+Miyabi
+Shibui
+Iki
+
 
 

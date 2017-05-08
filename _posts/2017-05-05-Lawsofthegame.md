@@ -32,20 +32,15 @@ For example:
 
 I love the simplcity of the definitions of touchlines and goal lines. It is almost Socrates talking geometry with Meno's servant boy. 
 
->`Socrates: Do yo know what a Soccer pitch is?`
->
->`Boy:           Yes.`
->
->`Socrates: What are its characteristics. How many sides has it?`
->
->`Boy: Four.`
->
->`Socrates: Exactly, and are they all the same length?`
->
->`Boy: No, two are long and two are short.`
->
->`Socrates: If we call the long side touchlines and the short sides goallines, do you know what they are?`
->`Boy: Yes, clearly.`
+	Socrates: Do yo know what a Soccer pitch is?
+	Boy:      Yes.
+	Socrates: What are its characteristics. How many sides has it?
+	Boy:   	  Four.
+	Socrates: Exactly, and are they all the same length?
+	Boy:						No, two are long and two are short.
+	Socrates:	If we call the long side touchlines and the short sides goallines, do you know what they are?
+	Boy:						Yes, clearly.
+	
 
 The graphics are likewise simple and clear.
 ![Field Dimensions](http://static-3eb8.kxcdn.com/media/052016/197/Dimensions_main.png "Field Dimensions")
