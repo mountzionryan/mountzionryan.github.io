@@ -1,7 +1,8 @@
 ---
 layout: post
 title: One of my favorite Poems
-category: Words, Japan
+category: Words 
+category: Japan
 tags: [poetry, japan]
 ---
 
