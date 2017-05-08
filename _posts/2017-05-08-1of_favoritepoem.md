@@ -7,7 +7,7 @@ tags: [poetry, japan]
 
 	My wife and I vowed       
 	to live together   
-				into new ages,   
+		into new ages,   
 	our bonds unbreakable
 	like a cord of jewels,
 	until our black hair
@@ -19,23 +19,23 @@ tags: [poetry, japan]
 	our desires unrealized,
 	she has left my white-sleeved arms
 	and departed from the house
-					of her peaceful life,
+		of her peaceful life,
 	leaving our crying child.
 	
 	She has passed
 	beyond the edge
-					of Sagara Mountain
-					in Yamashiro,
+		of Sagara Mountain
+		in Yamashiro,
 	fading like the morning mist.
 	There is nothing I can say,
-					nothing I can do.
+		nothing I can do.
 	In the mornings I go out
 	from the marriage hut
 	where we slept together,
-				and remember.
+		and remember.
 	In the evenings
 	I go inside
-				and grieve.
+		and grieve.
 	
 	Each time our child
 	cries in my arms
