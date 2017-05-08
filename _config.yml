@@ -3,14 +3,13 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
-
 # Setup
 title:               tesserae
 tagline:             'more than the sum of my parts'
 description:         
-<img src="/public/logo.png">
-Ryan Shelton
-<p style="font-size: small;><em>Noetic Design</em></p>
+ <img src="/public/logo.png">
+ Ryan Shelton
+ <p style="font-size: small;><em>Noetic Design</em></p>
 
 url:                 https://mountzionryan.github.io/
 baseurl:             ''
