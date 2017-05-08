@@ -8,19 +8,10 @@ permalink:           pretty
 title:               tesserae
 tagline:             'more than the sum of my parts'
 description:         
- style="display: inline;"
-
 <img src="/public/logo.png">
 Ryan Shelton
-Noetic <ul>
-<li  style="display: inline;">designer</li>
-<li  style="display: inline;">writer</li>
-<li  style="display: inline;">father</li> <br />
-<li  style="display: inline;">husband</li>
-<li style="display: inline;">problem-solver</li>
-<br />
-moving toward wisdom.
-</ul>
+<p style="font-size: small;><em>Noetic Design</em></p>
+
 url:                 https://mountzionryan.github.io/
 baseurl:             ''
 paginate:            5
